@@ -1,0 +1,12 @@
+{
+  "name": "image-storage",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iondv/image-storage.git"
+  },
+  "dependencies": {
+    "sharp": "^0.20.3"
+  }
+}
